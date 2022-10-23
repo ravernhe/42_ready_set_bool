@@ -1,0 +1,8 @@
+Binary Arithmetic :
+    https://en.wikipedia.org/wiki/Binary_number#Binary_arithmetic
+
+Add : 
+    https://iq.opengenus.org/time-complexity-of-addition/#:~:text=If%20we%20assume%20bitwise%20operations,takes%20O(1)%20time.
+
+Multiply :
+    https://www.tutorialspoint.com/multiply-any-number-with-using-bitwise-operator-in-cplusplus#:~:text=The%20left%20shift%20(%3C%3C),y%20%2F%202)%20%2B%20x.
